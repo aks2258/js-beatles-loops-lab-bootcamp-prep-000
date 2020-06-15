@@ -14,5 +14,5 @@ function johnLennonFacts(johnFacts){
       johnFacts.push(johnFacts[i]+"!")
       i++
     }
-    
+    return facts
 }
