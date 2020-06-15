@@ -11,6 +11,6 @@ function johnLennonFacts(johnFacts){
     var facts=0
     let i
     while(i<johnFacts.length){
-      johnFacts.push()
+      johnFacts.push(johnFacts[i]+"!")
     }
 }
