@@ -7,4 +7,6 @@ function theBeatlesPlay(musicians, instruments){
   return beatlesInstruments
 }
 
-function theBeatlesPlay(musicians)
+function johnLennonFacts(johnFacts){
+    
+}
