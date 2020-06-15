@@ -12,5 +12,7 @@ function johnLennonFacts(johnFacts){
     let i
     while(i<johnFacts.length){
       johnFacts.push(johnFacts[i]+"!")
+      i++
     }
+    
 }
