@@ -2,7 +2,7 @@
 function theBeatlesPlay(musicians, instruments){
   var beatlesInstruments=[]
     for(let i=0; i<theBeatlesPlay.length; i++){
-      console.log()
+      beatlesInstruments.push(musicians:)
     }
   return beatlesInstruments
 }
